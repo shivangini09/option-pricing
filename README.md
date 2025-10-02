@@ -30,7 +30,3 @@ It focuses on pricing a **European call option**, comparing results from **Monte
 - Qiskit & Qiskit Finance  
 - Matplotlib / Seaborn  
 
----
-
-   git clone <repository-url>
-   cd option-pricing
